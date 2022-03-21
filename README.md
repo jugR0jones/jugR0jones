@@ -70,21 +70,19 @@ To manage a team of talented individuals, that will provide me with the opportun
 * Running (walking awkwardly)
 * Cycling
 * Swimming
-8 Housework
+* Housework
 
-### Hi there 👋
+### Good Books I've Read In The Last 12 Months
 
-<!--
-**jugR0jones/jugR0jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Good Movies I've Seen In The Last 12 Months
+- The Adam Project
+- The Run Down
+- Atomic Blonde
+- Injustice
 
-Here are some ideas to get you started:
+## Contact Me
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jugR0jones) [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JavaJugR0)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/graeme-mcintosh-71173363/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center"> ©2022 Graeme McIntosh. All rights reserved. </p>
