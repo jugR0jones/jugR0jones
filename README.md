@@ -1,3 +1,20 @@
+# Graeme McIntosh
+
+
+
+## Currently Working On
+
+### Technologies
+TypeScript
+C#
+C++
+Unity3D
+
+## Career Objective
+To manage a team of talented individuals, that will provide me with the opportunities to apply my skills, knowledge and expertise to create industry leading products.
+
+## Currently Learning
+
 ### Hi there 👋
 
 <!--
