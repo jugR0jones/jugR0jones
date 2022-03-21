@@ -25,7 +25,7 @@ Add some interesting things here.
 </p>
 
 ## IDEs
-<p>0
+<p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetbrains%20rider-grey?style=for-the-badge&logo=rider&logoColor=white" />
@@ -43,14 +43,7 @@ Add some interesting things here.
 
 | humble Software         | November 2016 - January 2018                                 |
 |:-----------------------:|:-------------------------------------------------------------|
-| Sofware Developer       | As a software developer, was responsible for the maintenance |
-|                         | and development of the company’s Point-of-Sales (POS)        |
-|                         | software on the iOS platform. Daily tasks include the        |
-|                         | implementation of new features, maintenance of existing code,|
-|                         | migration and removal of legacy code as well as the creation |
-|                         | and management of unit tests. Assisted with the maintenance  |
-|                         | and implementation of features on the web-based version of   |
-|                         | their POS software when required.                            |
+| Sofware Developer       | As a software developer, was responsible for the maintenance and development of the company’s Point-of-Sales (POS) software on the iOS platform. Daily tasks include the implementation of new features, maintenance of existing code, migration and removal of legacy code as well as the creation and management of unit tests. Assisted with the maintenance and implementation of features on the web-based version of their POS software when required. |
 
 Retrenched due to operational requirements.
 August 2015 – October 2016: Adloc8tor, Kloof
