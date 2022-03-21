@@ -56,11 +56,10 @@ Add some interesting things here.
 | Junior Software Developer  | Wrote custom reporting dashboards for clients using HTML5 technologies in C# and MSSQL. Planned and developed plugins for the companies Unstructured Supplementary Service Data (USSD) platform. Helped to run and maintain the software used to bill clients. Took over the development and maintenance of the company’s ICE+ iOS application. |
 |                            | Left to accept a role with more responsibility at Adloc8tor. |
 
-August 2011 – July 2013: IT Dynamics, Pinetown
-Junior web developer, and iOS developer for Imana Foods. Worked under a team leader and wrote the iOS clients that integrated with the company's ERP system so that staff could conduct stock counts, place and manage orders, book specials and view historical data and trends for the stores they visit. Migrated the applications to Titanium4J, a Java-based cross-platform solution that allowed the iOS and Android clients to share code.
-
-Left to further personal growth in order to achieve career goals at Always Active Technologies.
-
+| IT Dynamics                | August 2011 – July 2013                                      |
+|:--------------------------:|:-------------------------------------------------------------|
+| Junior Software Developer  | Junior web developer, and iOS developer for Imana Foods. Worked under a team leader and wrote the iOS clients that integrated with the company's ERP system so that staff could conduct stock counts, place and manage orders, book specials and view historical data and trends for the stores they visit. Migrated the applications to Titanium4J, a Java-based cross-platform solution that allowed the iOS and Android clients to share code. |
+|                            | Left to further personal growth in order to achieve career goals at Always Active Technologies. |
 
 ## Career Objective
 To manage a team of talented individuals, that will provide me with the opportunities to apply my skills, knowledge and expertise to create industry leading products.
