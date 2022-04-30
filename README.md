@@ -7,10 +7,10 @@ I've spent a lot of time wandering around the internet. Lost. In 2022, I've deci
 ## Career Objective
 To manage a team of talented individuals, that will provide me with the opportunities to apply my skills, knowledge and expertise to create industry leading products.
 
-# What I Do
-For the past few years I've worked as a software developer. and lead a small team, writing software to simulate heavy equipment in the mining industry.
+# What I Do (2018 - Present)
+I lead a small team of talented developers, writing software to simulate heavy equipment in the mining industry.
 
-## Current Tech Stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +36,7 @@ For the past few years I've worked as a software developer. and lead a small tea
 
 # What I Have Done
 
-## Work Experience
+## IT Work Experience
 
 | Thoroughtec Simulations | June 2019 - Present                                          |
 |:-----------------------:|:-------------------------------------------------------------|
