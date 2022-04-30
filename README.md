@@ -2,9 +2,7 @@
 
 # About
 
-Add some interesting things here.
-
-I've spent a lot of time wandering around the internet, lost. But I've decided, in 2022, I'm going to make a better effort to settle down and populate my Github account with useful content. 
+I've spent a lot of time wandering around the internet. Lost. In 2022, I've decided to do better. I'm going to make effort to settle down and populate my Github account with useful content. 
 
 ## Career Objective
 To manage a team of talented individuals, that will provide me with the opportunities to apply my skills, knowledge and expertise to create industry leading products.
