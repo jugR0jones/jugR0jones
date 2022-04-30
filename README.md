@@ -40,11 +40,13 @@ I lead a small team of talented developers, writing software to simulate heavy e
 
 | Thoroughtec Simulations | June 2019 - Present                                          |
 |:-----------------------:|:-------------------------------------------------------------|
-| Team Lead               |                                                              |
+| Team Lead               | Continued to write simulation software using the company's proprietary 3D engine. In 2020 the company migrated to Unity 3D, which required the new frameworks for the LHDs and Rope Shovels, which my team oversaw. We help maintain existing production software by contributing to patches. My team has also helped maintain internal software tools and some of the company's build servers. Apart from software, I am responsible for mentoring junior, intermediate and senior developers, help with training and maintaining my team's build server. |
+|                         |                                                              |
 
 | Thoroughtec Simulations | January 2018 - June 2019                                     |
 |:-----------------------:|:-------------------------------------------------------------|
-| Sofware Developer       |                                                              |
+| Sofware Developer       | Wrote software to simulate above ground vehicles such as drillrigs, rope shovels and ADTs using the company's proprietary 3D engine. Daily tasks were writing simulations in C++, contributing to patches for production software and mentoring junior developers. |
+|                         | Promoted to Team Lead.                                       |
 
 | humble Software         | November 2016 - January 2018                                 |
 |:-----------------------:|:-------------------------------------------------------------|
