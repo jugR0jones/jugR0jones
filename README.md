@@ -108,6 +108,16 @@ I lead a small team of talented developers, writing software to simulate heavy e
 </p>
 
 ## Currently Learning
+* Unity 2020 By Example (Third Edition) by Robert Wells
+* Unity 2021 Cookbook (Fourth Edition) by Matt Smith and Shaun Ferns
+* Unity Certified Programmer: Exam Guide by Philip Walker
+* 3D Math Primer For Graphics And Game Development (Second Edition) by Fletcher Dunn and Ian Parberry
+* A Great Place To Work For All by Michael Bush
+* The Agile Enterprise by Mario Moreira
+* Apprentiship Patterns by David Hoover and Adewale Oshineye
+* The Art Of Readable Coe by Dustin Boswell and Trever Foucher
+* Dynamic Reteaming (Second Edition) by Heidi Helfand
+* UX Content Strategy by Aleksandar Vladimirov
 
 ## Hobbies
 * Running (walking awkwardly)
@@ -118,7 +128,9 @@ I lead a small team of talented developers, writing software to simulate heavy e
 ## Books I've Read
 
 ### 2022
-* Unity Game Optimization by Dr Davide Aversa and Chris Dickinson
+* Unity Game Optimization (Third Edition) by Dr Davide Aversa and Chris Dickinson
+* Game Development Patterns with Unity 2021 (Second Edition) by David Baron
+* Hands-On Unity 2021 Game Development (Second Edition) by Nicolas Borromeo
 
 ### Good Movies I've Seen In The Last 12 Months
 - The Adam Project
