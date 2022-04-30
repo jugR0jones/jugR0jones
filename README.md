@@ -1,11 +1,26 @@
-# Graeme McIntosh
-
 # About
 
 I've spent a lot of time wandering around the internet. Lost. In 2022, I've decided to do better. I'm going to make effort to settle down and populate my Github account with useful content. 
 
-## Career Objective
+# Career Objective
 To manage a team of talented individuals, that will provide me with the opportunities to apply my skills, knowledge and expertise to create industry leading products.
+
+# Contents
+* [What I Do (2018 - Present)](#what-i-do-2018---present)
+  * [Tech Stack](#tech-stack)
+  * [Frameworks and Libraries](#frameworks-and-libraries)
+  * [IDEs](#ides)
+* [What I Have Done](#what-i-have-done)
+  * [IT Work Experience](#it-work-experience)
+  * [Programming Languages](#programming-languages)
+  * [Frameworks and Libraries](#frameworks-and-libraries-1)
+  * [IDEs](#ides-1)
+  * [Databases](#databases)
+* [Currently Learning](#currently-learning)
+* [Hobbies](#hobbies)
+* [Books I've Read](#books-ive-read)
+  * [2022](#2022)
+* [Contact Me](#contact-me)  
 
 # What I Do (2018 - Present)
 I lead a small team of talented developers, writing software to simulate heavy equipment in the mining industry.
@@ -107,7 +122,7 @@ I lead a small team of talented developers, writing software to simulate heavy e
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## Currently Learning
+# Currently Learning
 * Unity 2020 By Example (Third Edition) by Robert Wells
 * Unity 2021 Cookbook (Fourth Edition) by Matt Smith and Shaun Ferns
 * Unity Certified Programmer: Exam Guide by Philip Walker
@@ -119,26 +134,20 @@ I lead a small team of talented developers, writing software to simulate heavy e
 * Dynamic Reteaming (Second Edition) by Heidi Helfand
 * UX Content Strategy by Aleksandar Vladimirov
 
-## Hobbies
+# Hobbies
 * Running (walking awkwardly)
 * Cycling
 * Swimming
 * Housework
 
-## Books I've Read
+# Books I've Read
 
-### 2022
+## 2022
 * Unity Game Optimization (Third Edition) by Dr Davide Aversa and Chris Dickinson
 * Game Development Patterns with Unity 2021 (Second Edition) by David Baron
 * Hands-On Unity 2021 Game Development (Second Edition) by Nicolas Borromeo
 
-### Good Movies I've Seen In The Last 12 Months
-- The Adam Project
-- The Run Down
-- Atomic Blonde
-- Injustice
-
-## Contact Me
+# Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jugR0jones) [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JavaJugR0)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/graeme-mcintosh-71173363/)
 
