@@ -145,6 +145,7 @@ I lead a small team of talented developers, writing software to simulate heavy e
 * Unity Game Optimization (Third Edition) by Dr Davide Aversa and Chris Dickinson
 * Game Development Patterns with Unity 2021 (Second Edition) by David Baron
 * Hands-On Unity 2021 Game Development (Second Edition) by Nicolas Borromeo
+* A Pebble For Your Thoughts by Megan Murphy
 
 # Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/jugR0jones) [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JavaJugR0)
